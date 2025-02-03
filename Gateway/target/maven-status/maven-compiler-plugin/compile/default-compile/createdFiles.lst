@@ -1,0 +1,7 @@
+GateWay/config/SecurityConfiguration.class
+GateWay/config/KeycloakRoleConverter.class
+GateWay/filter/ResponseTraceFilter.class
+GateWay/controller/FallbackController.class
+GateWay/SpringGatewayApplication.class
+GateWay/filter/RequestTraceFilter.class
+GateWay/filter/FilterUtility.class
