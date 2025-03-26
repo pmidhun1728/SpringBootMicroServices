@@ -6,6 +6,8 @@
 - **Spring Cloud Gateway**: For routing and request handling
 - **REST APIs**: Each service exposes REST endpoints
 - **Modular Structure**: Easy to extend or plug in additional services
+- **OAUTH2**: For Security services integrated with KeyClock Service
+- **Docker**: To initialize KeyClock, Postgress sql
 
 ## Getting Started
 
